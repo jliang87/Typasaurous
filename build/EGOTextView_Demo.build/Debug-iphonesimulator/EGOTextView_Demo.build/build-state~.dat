@@ -1,0 +1,1491 @@
+TEGOTextView_Demo
+v7
+r0
+t332630415.086522
+cCheck dependencies
+cProcessInfoPlistFile "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/Info.plist" EGOTextView_Demo/EGOTextView_Demo-Info.plist
+cProcessPCH /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch.gch EGOTextView_Demo/EGOTextView_Demo-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cProcessPCH /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-geushigynnadizbzoumvzvpwxkto/EGOTextView_Demo-Prefix.pch.gch EGOTextView_Demo/EGOTextView_Demo-Prefix.pch normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/main.o "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView_DemoAppDelegate.o "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView_DemoViewController.o "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView.o "/Users/ata48/Desktop/Archive 2/EGOTextView/EGOTextView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/A.o "/Users/ata48/Desktop/Archive 2/EGOTextView/A.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/B.o "/Users/ata48/Desktop/Archive 2/EGOTextView/B.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/C.o "/Users/ata48/Desktop/Archive 2/EGOTextView/C.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/D.o "/Users/ata48/Desktop/Archive 2/EGOTextView/D.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/E.o "/Users/ata48/Desktop/Archive 2/EGOTextView/E.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/F.o "/Users/ata48/Desktop/Archive 2/EGOTextView/F.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/G.o "/Users/ata48/Desktop/Archive 2/EGOTextView/G.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/H.o "/Users/ata48/Desktop/Archive 2/EGOTextView/H.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/I.o "/Users/ata48/Desktop/Archive 2/EGOTextView/I.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/J.o "/Users/ata48/Desktop/Archive 2/EGOTextView/J.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/K.o "/Users/ata48/Desktop/Archive 2/EGOTextView/K.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/L.o "/Users/ata48/Desktop/Archive 2/EGOTextView/L.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/M.o "/Users/ata48/Desktop/Archive 2/EGOTextView/M.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/N.o "/Users/ata48/Desktop/Archive 2/EGOTextView/N.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/O.o "/Users/ata48/Desktop/Archive 2/EGOTextView/O.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/P.o "/Users/ata48/Desktop/Archive 2/EGOTextView/P.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Q.o "/Users/ata48/Desktop/Archive 2/EGOTextView/Q.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/R.o "/Users/ata48/Desktop/Archive 2/EGOTextView/R.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/S.o "/Users/ata48/Desktop/Archive 2/EGOTextView/S.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Squiggle.o "/Users/ata48/Desktop/Archive 2/EGOTextView/Squiggle.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/T.o "/Users/ata48/Desktop/Archive 2/EGOTextView/T.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/U.o "/Users/ata48/Desktop/Archive 2/EGOTextView/U.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/V.o "/Users/ata48/Desktop/Archive 2/EGOTextView/V.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/W.o "/Users/ata48/Desktop/Archive 2/EGOTextView/W.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/X.o "/Users/ata48/Desktop/Archive 2/EGOTextView/X.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Y.o "/Users/ata48/Desktop/Archive 2/EGOTextView/Y.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Z.o "/Users/ata48/Desktop/Archive 2/EGOTextView/Z.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/CGPointUtils.o "/Users/ata48/Desktop/Archive 2/EGOTextView/../../2011-2-CMPT275-Group-11/SimpleTextInput/SimpleTextInput/Classes/CGPointUtils.c" normal i386 c com.apple.compilers.llvmgcc42
+cCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/MyClass.o "/Users/ata48/Desktop/Archive 2/MyClass.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCopyStringsFile "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/en.lproj/InfoPlist.strings" EGOTextView_Demo/en.lproj/InfoPlist.strings
+cCompileXIB "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/MainWindow.xib"
+cCompileXIB "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/EGOTextView_DemoViewController.xib"
+cCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/loupe-hi@2x.png EGOTextView/Resources/loupe-hi@2x.png
+cCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/loupe-lo@2x.png EGOTextView/Resources/loupe-lo@2x.png
+cCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/loupe-mask@2x.png EGOTextView/Resources/loupe-mask@2x.png
+cCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/drag-dot@2x.png EGOTextView/Resources/drag-dot@2x.png
+cCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-hi@2x.png EGOTextView/Resources/magnifier-ranged-hi@2x.png
+cCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-lo-stemless@2x.png EGOTextView/Resources/magnifier-ranged-lo-stemless@2x.png
+cCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-lo@2x.png EGOTextView/Resources/magnifier-ranged-lo@2x.png
+cCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-mask@2x.png EGOTextView/Resources/magnifier-ranged-mask@2x.png
+cCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/Background.png Background.png
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004DD267F70000000000000110
+t1305634807
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.h
+c000000004CC121DB00000000000004FE
+t1287725531
+s1278
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c000000004CC122FF000000000009AF90
+t1287725823
+s634768
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.h
+c000000004CC122F200000000000008C5
+t1287725810
+s2245
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1233C00000000000000C4
+t1287725884
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGestureRecognizerSubclass.h
+c000000004CC128230000000000000926
+t1287727139
+s2342
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UITextChecker.h
+c000000004CC1282400000000000009E1
+t1287727140
+s2529
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/objc/runtime.h
+c000000004CB9357000000000000053F9
+t1287206256
+s21497
+
+N/Users/ata48/Desktop/Archive 2/Background.png
+c000000004E1F732200000000000B2D82
+t1310683938
+s732546
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/../../2011-2-CMPT275-Group-11/SimpleTextInput/SimpleTextInput/Classes/CGPointUtils.c
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/A.h
+c000000004E1A7DDC00000000000000CF
+t1310359004
+s207
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/A.m
+c000000004E1A7DDC0000000000000AC5
+t1310359004
+s2757
+i"A.h"
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/B.h
+c000000004E1A7DDE00000000000000CF
+t1310359006
+s207
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/B.m
+c000000004E1A7DDE0000000000000AB1
+t1310359006
+s2737
+i"B.h"
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/C.h
+c000000004E1A7DDE00000000000000E1
+t1310359006
+s225
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/C.m
+c000000004E1A7DDE0000000000000AEC
+t1310359006
+s2796
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+i"C.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/CGPointUtils.h
+c000000004DE051B60000000000000196
+t1306546614
+s406
+i<CoreGraphics/CoreGraphics.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/D.h
+c000000004E1A7DDE00000000000000CF
+t1310359006
+s207
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/D.m
+c000000004E1A7DDE0000000000000BA3
+t1310359006
+s2979
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+i"D.h"
+i"C.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/E.h
+c000000004E1A7DE000000000000000CF
+t1310359008
+s207
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/E.m
+c000000004E1A7DE00000000000000BF7
+t1310359008
+s3063
+i"E.h"
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/EGOTextView.h
+c000000004E22679A0000000000000C8F
+t1310877594
+s3215
+i<UIKit/UIKit.h>
+i<CoreText/CoreText.h>
+i<objc/runtime.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/EGOTextView.m
+c000000004E22720B0000000000015490
+t1310880267
+s87184
+i"EGOTextView.h"
+i<UIKit/UITextChecker.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/F.h
+c000000004E1A7DE000000000000000CE
+t1310359008
+s206
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/F.m
+c000000004E1A7DE00000000000000B58
+t1310359008
+s2904
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+i"F.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/G.h
+c000000004E1A7DE000000000000000CF
+t1310359008
+s207
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/G.m
+c000000004E1A7DE00000000000000BCD
+t1310359008
+s3021
+i"G.h"
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/H.h
+c000000004E1A7DE000000000000000E0
+t1310359008
+s224
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/H.m
+c000000004E1A7DE00000000000000B43
+t1310359008
+s2883
+i"H.h"
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/I.h
+c000000004E1A7DE000000000000000CD
+t1310359008
+s205
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/I.m
+c000000004E1A7DE00000000000000B44
+t1310359008
+s2884
+i"I.h"
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/J.h
+c000000004E1A7DE000000000000000CE
+t1310359008
+s206
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/J.m
+c000000004E1A7DE00000000000000A41
+t1310359008
+s2625
+i"J.h"
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/K.h
+c000000004E1A7DE000000000000000CF
+t1310359008
+s207
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/K.m
+c000000004E1A7DE00000000000000AE1
+t1310359008
+s2785
+i"K.h"
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/L.h
+c000000004E1A7DE000000000000000E6
+t1310359008
+s230
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/L.m
+c000000004E1A7DE00000000000000B3D
+t1310359008
+s2877
+i"L.h"
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/M.h
+c000000004E1A7DE000000000000000DA
+t1310359008
+s218
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/M.m
+c000000004E1A7DE00000000000000BBF
+t1310359008
+s3007
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+i"M.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/N.h
+c000000004E1A7DE000000000000000DA
+t1310359008
+s218
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/N.m
+c000000004E1A7DE00000000000000BD7
+t1310359008
+s3031
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+i"N.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/O.h
+c000000004E1A7DE200000000000000CE
+t1310359010
+s206
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/O.m
+c000000004E1A7DE20000000000000B3D
+t1310359010
+s2877
+i"O.h"
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/P.h
+c000000004E1A7DE200000000000000D8
+t1310359010
+s216
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/P.m
+c000000004E1A7DE20000000000000AEE
+t1310359010
+s2798
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+i"P.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Q.h
+c000000004E1A7DE200000000000000D8
+t1310359010
+s216
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Q.m
+c000000004E1A7DE20000000000000BD4
+t1310359010
+s3028
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+i"Q.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/R.h
+c000000004E1A7DE200000000000000D8
+t1310359010
+s216
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/R.m
+c000000004E1A7DE20000000000000B70
+t1310359010
+s2928
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+i"R.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/drag-dot@2x.png
+c000000004DF40FAA000000000000067E
+t1307840426
+s1662
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/loupe-hi@2x.png
+c000000004DF40FAA0000000000009D49
+t1307840426
+s40265
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/loupe-lo@2x.png
+c000000004DF40FAA00000000000041CD
+t1307840426
+s16845
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/loupe-mask@2x.png
+c000000004DF40FAA00000000000016DF
+t1307840426
+s5855
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/magnifier-ranged-hi@2x.png
+c000000004DF40FAA00000000000009CA
+t1307840426
+s2506
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/magnifier-ranged-lo-stemless@2x.png
+c000000004DF40FAA0000000000000FF6
+t1307840426
+s4086
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/magnifier-ranged-lo@2x.png
+c000000004DF40FAA00000000000015DF
+t1307840426
+s5599
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/magnifier-ranged-mask@2x.png
+c000000004DF40FAA0000000000000649
+t1307840426
+s1609
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/S.h
+c000000004E1A7DE200000000000000CE
+t1310359010
+s206
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/S.m
+c000000004E1A7DE20000000000000ADD
+t1310359010
+s2781
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+i"S.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Squiggle.h
+c000000004E1A7DE200000000000008EA
+t1310359010
+s2282
+i<UIKit/UIKit.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Squiggle.m
+c000000004E1F6EF40000000000000ADA
+t1310682868
+s2778
+i"Squiggle.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/T.h
+c000000004E1A7DE400000000000000E0
+t1310359012
+s224
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/T.m
+c000000004E1A7DE40000000000000BE0
+t1310359012
+s3040
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+i"T.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/U.h
+c000000004E1A7DE400000000000000CD
+t1310359012
+s205
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/U.m
+c000000004E1A7DE40000000000000B0A
+t1310359012
+s2826
+i"U.h"
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/V.h
+c000000004E1A7DE400000000000000E0
+t1310359012
+s224
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/V.m
+c000000004E1A7DE40000000000000A47
+t1310359012
+s2631
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+i"V.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/W.h
+c000000004E1A7DE400000000000000E0
+t1310359012
+s224
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/W.m
+c000000004E1A7DE40000000000000B45
+t1310359012
+s2885
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+i"W.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/X.h
+c000000004E1A7DE400000000000000CF
+t1310359012
+s207
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/X.m
+c000000004E1A7DE40000000000000A98
+t1310359012
+s2712
+i"X.h"
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Y.h
+c000000004E1A7DE400000000000000CE
+t1310359012
+s206
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Y.m
+c000000004E1A7DE40000000000000A93
+t1310359012
+s2707
+i"Y.h"
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Z.h
+c000000004E1A7DE400000000000000E0
+t1310359012
+s224
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView/Z.m
+c000000004E1A7DE40000000000000B6F
+t1310359012
+s2927
+i"CGPointUtils.h"
+i<UIKit/UIGestureRecognizerSubclass.h>
+i"Z.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_Demo-Prefix.pch
+c000000004DF40FAA0000000000000152
+t1307840426
+s338
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoAppDelegate.h
+c000000004E21705F0000000000000678
+t1310814303
+s1656
+i<UIKit/UIKit.h>
+i"EGOTextView_DemoViewController.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoAppDelegate.m
+c000000004E2266300000000000000EAD
+t1310877232
+s3757
+i"EGOTextView_DemoAppDelegate.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoViewController.h
+c000000004E216ED2000000000000089B
+t1310813906
+s2203
+i<UIKit/UIKit.h>
+i"K.h"
+i"A.h"
+i"C.h"
+i"D.h"
+i"F.h"
+i"S.h"
+i"B.h"
+i"E.h"
+i"G.h"
+i"X.h"
+i"Y.h"
+i"M.h"
+i"N.h"
+i"P.h"
+i"Q.h"
+i"R.h"
+i"I.h"
+i"J.h"
+i"L.h"
+i"U.h"
+i"O.h"
+i"H.h"
+i"T.h"
+i"V.h"
+i"W.h"
+i"Z.h"
+i"MyClass.h"
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoViewController.m
+c000000004E22748E0000000000003DF4
+t1310880910
+s15860
+i"EGOTextView_DemoViewController.h"
+i"EGOTextView.h"
+i<QuartzCore/QuartzCore.h>
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/EGOTextView_DemoViewController.xib
+c000000004E22666800000000000026B7
+t1310877288
+s9911
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/InfoPlist.strings
+c000000004DF40FAA000000000000002D
+t1307840426
+s45
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/MainWindow.xib
+c000000004DF40FAA0000000000004E85
+t1307840426
+s20101
+
+N/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/main.m
+c000000004DF40FAA0000000000000161
+t1307840426
+s353
+i<UIKit/UIKit.h>
+
+N/Users/ata48/Desktop/Archive 2/MyClass.h
+c000000004E2254710000000000000357
+t1310872689
+s855
+i<UIKit/UIKit.h>
+i"Squiggle.h"
+i<objc/runtime.h>
+
+N/Users/ata48/Desktop/Archive 2/MyClass.m
+c000000004E227957000000000000212F
+t1310882135
+s8495
+i"MyClass.h"
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app
+t2
+s0
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app.dSYM
+t2
+s0
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/Background.png
+t1310937614
+s732546
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/EGOTextView_Demo
+t2
+s0
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/Info.plist
+t1310937612
+s819
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/PkgInfo
+t1310937612
+s8
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/drag-dot@2x.png
+t1310937614
+s1662
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/en.lproj/EGOTextView_DemoViewController.nib
+t1310937615
+s1051
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/en.lproj/InfoPlist.strings
+t1310937614
+s42
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/en.lproj/MainWindow.nib
+t1310937615
+s1141
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/loupe-hi@2x.png
+t1310937614
+s40265
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/loupe-lo@2x.png
+t1310937614
+s16845
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/loupe-mask@2x.png
+t1310937614
+s5855
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-hi@2x.png
+t1310937614
+s2506
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-lo-stemless@2x.png
+t1310937614
+s4086
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-lo@2x.png
+t1310937614
+s5599
+
+N/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-mask@2x.png
+t1310937614
+s1609
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/A.o
+t1310937613
+s42124
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/B.o
+t1310937613
+s42004
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/C.o
+t1310937613
+s42352
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/CGPointUtils.o
+t2
+s0
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/D.o
+t1310937613
+s42452
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/E.o
+t1310937613
+s42588
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView.o
+t1310937614
+s317640
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView_Demo.LinkFileList
+c000000004E23520C00000000000010FD
+t1310937612
+s4349
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView_DemoAppDelegate.o
+t1310937613
+s57096
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView_DemoViewController.o
+t1310937613
+s104156
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/F.o
+t1310937613
+s42572
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/G.o
+t1310937613
+s42588
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/H.o
+t1310937614
+s42288
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/I.o
+t1310937614
+s42236
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/J.o
+t1310937614
+s41588
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/K.o
+t1310937614
+s42036
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/L.o
+t1310937614
+s42336
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/M.o
+t1310937614
+s42588
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/MyClass.o
+t1310937614
+s59552
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/N.o
+t1310937614
+s42420
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/O.o
+t1310937614
+s42236
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/P.o
+t1310937614
+s42068
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Q.o
+t1310937614
+s42588
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/R.o
+t1310937614
+s42252
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/S.o
+t1310937614
+s42252
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Squiggle.o
+t1310937614
+s9520
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/T.o
+t1310937614
+s42552
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/U.o
+t1310937614
+s42452
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/V.o
+t1310937614
+s42120
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/W.o
+t1310937614
+s42688
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/X.o
+t1310937614
+s42124
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Y.o
+t1310937614
+s42124
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Z.o
+t1310937614
+s42688
+
+N/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/main.o
+t1310937613
+s3092
+
+N/var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch.gch
+t1310937613
+s11992272
+
+N/var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-geushigynnadizbzoumvzvpwxkto/EGOTextView_Demo-Prefix.pch.gch
+t1310937613
+s1372592
+
+NEGOTextView_Demo/EGOTextView_Demo-Info.plist
+c000000004DF40FAA00000000000004A3
+t1307840426
+s1187
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332630412#332630412#0(0"0(0#1#0"32088628383449192#0"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/A.o "/Users/ata48/Desktop/Archive 2/EGOTextView/A.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.589237
+e332630413.681379
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/A.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/A.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/A.m332630413#332630413#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/A.m8612826592#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/A.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/A.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/B.o "/Users/ata48/Desktop/Archive 2/EGOTextView/B.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.631046
+e332630413.727555
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/B.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/B.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/B.m332630413#332630413#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/B.m8607304512#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/B.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/B.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/C.o "/Users/ata48/Desktop/Archive 2/EGOTextView/C.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.681527
+e332630413.785249
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/C.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/C.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/C.m332630413#332630413#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/C.m8597654944#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/C.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/C.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/CGPointUtils.o "/Users/ata48/Desktop/Archive 2/EGOTextView/../../2011-2-CMPT275-Group-11/SimpleTextInput/SimpleTextInput/Classes/CGPointUtils.c" normal i386 c com.apple.compilers.llvmgcc42
+s332630414.489116
+e332630414.495419
+r0
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/CGPointUtils.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/../../2011-2-CMPT275-Group-11/SimpleTextInput/SimpleTextInput/Classes/CGPointUtils.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+oi686-apple-darwin10-llvm-gcc-4.2: /Users/ata48/Desktop/Archive 2/EGOTextView/../../2011-2-CMPT275-Group-11/SimpleTextInput/SimpleTextInput/Classes/CGPointUtils.c: No such file or directory
+oi686-apple-darwin10-llvm-gcc-4.2: warning: '-x c' after last input file has no effect
+oi686-apple-darwin10-llvm-gcc-4.2: no input files
+lSLF07#2@135"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/../../2011-2-CMPT275-Group-11/SimpleTextInput/SimpleTextInput/Classes/CGPointUtils.c332630414#332630414#0(433"i686-apple-darwin10-llvm-gcc-4.2: /Users/ata48/Desktop/Archive 2/EGOTextView/../../2011-2-CMPT275-Group-11/SimpleTextInput/SimpleTextInput/Classes/CGPointUtils.c: No such file or directoryi686-apple-darwin10-llvm-gcc-4.2: warning: '-x c' after last input file has no effecti686-apple-darwin10-llvm-gcc-4.2: no input filesCommand /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 failed with exit code 11(4@108"Command /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 failed with exit code 1332630414#18446744073709551615#0#0(1@0"0(0#0#127"/Users/ata48/Desktop/Archive 2/EGOTextView/../../2011-2-CMPT275-Group-11/SimpleTextInput/SimpleTextInput/Classes/CGPointUtils.c8611020448#2169"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-geushigynnadizbzoumvzvpwxkto/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/../../2011-2-CMPT275-Group-11/SimpleTextInput/SimpleTextInput/Classes/CGPointUtils.c" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/CGPointUtils.o"1#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/D.o "/Users/ata48/Desktop/Archive 2/EGOTextView/D.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.727701
+e332630413.833027
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/D.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/D.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/D.m332630413#332630413#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/D.m8595873600#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/D.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/D.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/E.o "/Users/ata48/Desktop/Archive 2/EGOTextView/E.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.785386
+e332630413.903282
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/E.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/E.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/E.m332630413#332630413#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/E.m8595848032#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/E.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/E.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView.o "/Users/ata48/Desktop/Archive 2/EGOTextView/EGOTextView.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.485541
+e332630414.347063
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/EGOTextView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/ata48/Desktop/Archive 2/EGOTextView/EGOTextView.m: In function '-[EGOTextView becomeFirstResponder]':
+o/Users/ata48/Desktop/Archive 2/EGOTextView/EGOTextView.m:1862: warning: control reaches end of non-void function
+lSLF07#2@64"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/EGOTextView.m332630413#332630414#0(222"/Users/ata48/Desktop/Archive 2/EGOTextView/EGOTextView.m: In function '-[EGOTextView becomeFirstResponder]':/Users/ata48/Desktop/Archive 2/EGOTextView/EGOTextView.m:1862: warning: control reaches end of non-void function1(22@40"Control reaches end of non-void function332630413#109#113#0(6@56"/Users/ata48/Desktop/Archive 2/EGOTextView/EGOTextView.m332573067#1862#0#1862#0#40"control reaches end of non-void function0(0#0#56"/Users/ata48/Desktop/Archive 2/EGOTextView/EGOTextView.m8596047392#2151"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/EGOTextView.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView_DemoAppDelegate.o "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.483496
+e332630413.630911
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView_DemoAppDelegate.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@85"Compile /Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoAppDelegate.m332630413#332630413#0(0"0(0#0#77"/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoAppDelegate.m8607138784#2188"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoAppDelegate.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView_DemoAppDelegate.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView_DemoViewController.o "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.484535
+e332630413.796205
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView_DemoViewController.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@88"Compile /Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoViewController.m332630413#332630413#0(0"0(0#0#80"/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoViewController.m8612193408#2194"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_DemoViewController.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/EGOTextView_DemoViewController.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/F.o "/Users/ata48/Desktop/Archive 2/EGOTextView/F.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.796352
+e332630413.937858
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/F.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/F.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/F.m332630413#332630413#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/F.m8607674528#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/F.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/F.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/G.o "/Users/ata48/Desktop/Archive 2/EGOTextView/G.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.833174
+e332630413.944861
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/G.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/G.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/G.m332630413#332630413#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/G.m8613298336#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/G.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/G.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/H.o "/Users/ata48/Desktop/Archive 2/EGOTextView/H.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.903413
+e332630414.004637
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/H.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/H.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/ata48/Desktop/Archive 2/EGOTextView/H.m: In function '-[H touchesMoved:withEvent:]':
+o/Users/ata48/Desktop/Archive 2/EGOTextView/H.m:32: warning: unused variable 'angle3'
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/H.m332630413#332630414#0(177"/Users/ata48/Desktop/Archive 2/EGOTextView/H.m: In function '-[H touchesMoved:withEvent:]':/Users/ata48/Desktop/Archive 2/EGOTextView/H.m:32: warning: unused variable 'angle3'1(22@24"Unused variable 'angle3'332630413#92#85#0(6@46"/Users/ata48/Desktop/Archive 2/EGOTextView/H.m332051808#32#0#32#0#19"unused variable '*'0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/H.m8613627712#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/H.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/H.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/I.o "/Users/ata48/Desktop/Archive 2/EGOTextView/I.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.937987
+e332630414.045132
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/I.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/I.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/ata48/Desktop/Archive 2/EGOTextView/I.m: In function '-[I touchesMoved:withEvent:]':
+o/Users/ata48/Desktop/Archive 2/EGOTextView/I.m:33: warning: unused variable 'angle3'
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/I.m332630413#332630414#0(177"/Users/ata48/Desktop/Archive 2/EGOTextView/I.m: In function '-[I touchesMoved:withEvent:]':/Users/ata48/Desktop/Archive 2/EGOTextView/I.m:33: warning: unused variable 'angle3'1(22@24"Unused variable 'angle3'332630413#92#85#0(6@46"/Users/ata48/Desktop/Archive 2/EGOTextView/I.m332051808#33#0#33#0#19"unused variable '*'0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/I.m8612275904#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/I.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/I.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/J.o "/Users/ata48/Desktop/Archive 2/EGOTextView/J.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.944999
+e332630414.043591
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/J.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/J.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/J.m332630413#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/J.m8611536384#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/J.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/J.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/K.o "/Users/ata48/Desktop/Archive 2/EGOTextView/K.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.004774
+e332630414.109699
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/K.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/K.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/K.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/K.m8607528640#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/K.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/K.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/L.o "/Users/ata48/Desktop/Archive 2/EGOTextView/L.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.043728
+e332630414.137392
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/L.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/L.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/ata48/Desktop/Archive 2/EGOTextView/L.m: In function '-[L touchesMoved:withEvent:]':
+o/Users/ata48/Desktop/Archive 2/EGOTextView/L.m:32: warning: unused variable 'angle3'
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/L.m332630414#332630414#0(177"/Users/ata48/Desktop/Archive 2/EGOTextView/L.m: In function '-[L touchesMoved:withEvent:]':/Users/ata48/Desktop/Archive 2/EGOTextView/L.m:32: warning: unused variable 'angle3'1(22@24"Unused variable 'angle3'332630414#92#85#0(6@46"/Users/ata48/Desktop/Archive 2/EGOTextView/L.m332051808#32#0#32#0#19"unused variable '*'0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/L.m8602473344#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/L.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/L.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/M.o "/Users/ata48/Desktop/Archive 2/EGOTextView/M.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.045243
+e332630414.152556
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/M.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/M.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/M.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/M.m8600605984#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/M.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/M.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/MyClass.o "/Users/ata48/Desktop/Archive 2/MyClass.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.495548
+e332630414.610586
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/MyClass.o
+x/Users/ata48/Desktop/Archive 2/MyClass.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@48"Compile /Users/ata48/Desktop/Archive 2/MyClass.m332630414#332630414#0(0"0(0#0#40"/Users/ata48/Desktop/Archive 2/MyClass.m8607310560#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/MyClass.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/MyClass.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/N.o "/Users/ata48/Desktop/Archive 2/EGOTextView/N.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.109848
+e332630414.215862
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/N.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/N.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/N.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/N.m8612272256#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/N.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/N.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/O.o "/Users/ata48/Desktop/Archive 2/EGOTextView/O.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.137514
+e332630414.248061
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/O.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/O.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+o/Users/ata48/Desktop/Archive 2/EGOTextView/O.m: In function '-[O touchesMoved:withEvent:]':
+o/Users/ata48/Desktop/Archive 2/EGOTextView/O.m:31: warning: unused variable 'angle3'
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/O.m332630414#332630414#0(177"/Users/ata48/Desktop/Archive 2/EGOTextView/O.m: In function '-[O touchesMoved:withEvent:]':/Users/ata48/Desktop/Archive 2/EGOTextView/O.m:31: warning: unused variable 'angle3'1(22@24"Unused variable 'angle3'332630414#92#85#0(6@46"/Users/ata48/Desktop/Archive 2/EGOTextView/O.m332051810#31#0#31#0#19"unused variable '*'0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/O.m8599985952#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/O.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/O.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/P.o "/Users/ata48/Desktop/Archive 2/EGOTextView/P.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.152673
+e332630414.265882
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/P.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/P.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/P.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/P.m8532465745358041088#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/P.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/P.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Q.o "/Users/ata48/Desktop/Archive 2/EGOTextView/Q.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.216245
+e332630414.315887
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Q.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/Q.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/Q.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/Q.m8612844096#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/Q.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Q.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/R.o "/Users/ata48/Desktop/Archive 2/EGOTextView/R.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.248186
+e332630414.349265
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/R.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/R.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/R.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/R.m8611895104#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/R.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/R.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/S.o "/Users/ata48/Desktop/Archive 2/EGOTextView/S.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.266018
+e332630414.365877
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/S.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/S.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/S.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/S.m8607696288#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/S.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/S.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Squiggle.o "/Users/ata48/Desktop/Archive 2/EGOTextView/Squiggle.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.316022
+e332630414.385446
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Squiggle.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/Squiggle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@61"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/Squiggle.m332630414#332630414#0(0"0(0#0#53"/Users/ata48/Desktop/Archive 2/EGOTextView/Squiggle.m8607300896#2145"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/Squiggle.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Squiggle.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/T.o "/Users/ata48/Desktop/Archive 2/EGOTextView/T.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.347194
+e332630414.454983
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/T.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/T.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/T.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/T.m8600866496#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/T.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/T.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/U.o "/Users/ata48/Desktop/Archive 2/EGOTextView/U.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.349389
+e332630414.460656
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/U.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/U.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/U.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/U.m8599604480#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/U.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/U.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/V.o "/Users/ata48/Desktop/Archive 2/EGOTextView/V.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.366110
+e332630414.459362
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/V.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/V.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/V.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/V.m8598628576#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/V.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/V.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/W.o "/Users/ata48/Desktop/Archive 2/EGOTextView/W.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.385577
+e332630414.488970
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/W.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/W.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/W.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/W.m8607582880#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/W.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/W.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/X.o "/Users/ata48/Desktop/Archive 2/EGOTextView/X.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.455129
+e332630414.571261
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/X.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/X.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/X.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/X.m8612905184#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/X.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/X.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Y.o "/Users/ata48/Desktop/Archive 2/EGOTextView/Y.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.459507
+e332630414.558182
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Y.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/Y.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/Y.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/Y.m8612397504#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/Y.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Y.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Z.o "/Users/ata48/Desktop/Archive 2/EGOTextView/Z.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630414.460762
+e332630414.575577
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Z.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView/Z.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@54"Compile /Users/ata48/Desktop/Archive 2/EGOTextView/Z.m332630414#332630414#0(0"0(0#0#46"/Users/ata48/Desktop/Archive 2/EGOTextView/Z.m8611696384#2131"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView/Z.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/Z.o"0#
+
+CCompileC build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/main.o "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630413.482300
+e332630413.589094
+r1
+xCompileC
+xbuild/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/main.o
+x/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@62"Compile /Users/ata48/Desktop/Archive 2/EGOTextView_Demo/main.m332630413#332630413#0(0"0(0#0#54"/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/main.m8611494240#2142"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch -c "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/main.m" -o "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/EGOTextView_DemoViewController.xib"
+s332630414.612017
+e332630415.086325
+r1
+xCompileXIB
+x/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/EGOTextView_DemoViewController.xib
+o2011-07-17 14:20:14.891 Interface Builder Cocoa Touch Tool[889:1903] CFPreferences: user home directory at file://localhost/Users/ata48/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@71"CompileXIB EGOTextView_Demo/en.lproj/EGOTextView_DemoViewController.xib332630414#332630415#0(238"2011-07-17 14:20:14.891 Interface Builder Cocoa Touch Tool[889:1903] CFPreferences: user home directory at file://localhost/Users/ata48/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#91"/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/EGOTextView_DemoViewController.xib8612787872#636"    cd "/Users/ata48/Desktop/Archive 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/en.lproj/EGOTextView_DemoViewController.nib" "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/EGOTextView_DemoViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/MainWindow.xib"
+s332630414.611388
+e332630415.086193
+r1
+xCompileXIB
+x/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/MainWindow.xib
+o2011-07-17 14:20:14.889 Interface Builder Cocoa Touch Tool[888:1903] CFPreferences: user home directory at file://localhost/Users/ata48/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.
+lSLF07#2@51"CompileXIB EGOTextView_Demo/en.lproj/MainWindow.xib332630414#332630415#0(238"2011-07-17 14:20:14.889 Interface Builder Cocoa Touch Tool[888:1903] CFPreferences: user home directory at file://localhost/Users/ata48/Library/Application%20Support/iPhone%20Simulator/User/ is unavailable. User domains will be volatile.0(0#0#71"/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/MainWindow.xib8612860672#596"    cd "/Users/ata48/Desktop/Archive 2"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/en.lproj/MainWindow.nib" "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCopyStringsFile "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/en.lproj/InfoPlist.strings" EGOTextView_Demo/en.lproj/InfoPlist.strings
+s332630414.610675
+e332630414.731628
+r1
+xCopyStringsFile
+x/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/en.lproj/InfoPlist.strings
+xEGOTextView_Demo/en.lproj/InfoPlist.strings
+lSLF07#2@48"Copy EGOTextView_Demo/en.lproj/InfoPlist.strings332630414#332630414#0(0"0(0#0#74"/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/en.lproj/InfoPlist.strings8613145792#497"    cd "/Users/ata48/Desktop/Archive 2"    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary EGOTextView_Demo/en.lproj/InfoPlist.strings --outdir "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/en.lproj"0#
+
+CCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/Background.png Background.png
+s332630414.668290
+e332630414.716822
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EGOTextView_Demo.app/Background.png
+xBackground.png
+lSLF07#2@19"Copy Background.png332630414#332630414#0(0"0(0#0#45"/Users/ata48/Desktop/Archive 2/Background.png8607309408#463"    cd "/Users/ata48/Desktop/Archive 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/ata48/Desktop/Archive 2/Background.png" "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app"0#
+
+CCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/drag-dot@2x.png EGOTextView/Resources/drag-dot@2x.png
+s332630414.615020
+e332630414.669133
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EGOTextView_Demo.app/drag-dot@2x.png
+xEGOTextView/Resources/drag-dot@2x.png
+lSLF07#2@42"Copy EGOTextView/Resources/drag-dot@2x.png332630414#332630414#0(0"0(0#0#68"/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/drag-dot@2x.png8611895616#486"    cd "/Users/ata48/Desktop/Archive 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/drag-dot@2x.png" "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app"0#
+
+CCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/loupe-hi@2x.png EGOTextView/Resources/loupe-hi@2x.png
+s332630414.612942
+e332630414.673682
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EGOTextView_Demo.app/loupe-hi@2x.png
+xEGOTextView/Resources/loupe-hi@2x.png
+lSLF07#2@42"Copy EGOTextView/Resources/loupe-hi@2x.png332630414#332630414#0(0"0(0#0#68"/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/loupe-hi@2x.png8612685312#486"    cd "/Users/ata48/Desktop/Archive 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/loupe-hi@2x.png" "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app"0#
+
+CCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/loupe-lo@2x.png EGOTextView/Resources/loupe-lo@2x.png
+s332630414.613634
+e332630414.667550
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EGOTextView_Demo.app/loupe-lo@2x.png
+xEGOTextView/Resources/loupe-lo@2x.png
+lSLF07#2@42"Copy EGOTextView/Resources/loupe-lo@2x.png332630414#332630414#0(0"0(0#0#68"/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/loupe-lo@2x.png8612367808#486"    cd "/Users/ata48/Desktop/Archive 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/loupe-lo@2x.png" "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app"0#
+
+CCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/loupe-mask@2x.png EGOTextView/Resources/loupe-mask@2x.png
+s332630414.614331
+e332630414.667731
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EGOTextView_Demo.app/loupe-mask@2x.png
+xEGOTextView/Resources/loupe-mask@2x.png
+lSLF07#2@44"Copy EGOTextView/Resources/loupe-mask@2x.png332630414#332630414#0(0"0(0#0#70"/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/loupe-mask@2x.png8612184320#488"    cd "/Users/ata48/Desktop/Archive 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/loupe-mask@2x.png" "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app"0#
+
+CCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-hi@2x.png EGOTextView/Resources/magnifier-ranged-hi@2x.png
+s332630414.615657
+e332630414.666444
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-hi@2x.png
+xEGOTextView/Resources/magnifier-ranged-hi@2x.png
+lSLF07#2@53"Copy EGOTextView/Resources/magnifier-ranged-hi@2x.png332630414#332630414#0(0"0(0#0#79"/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/magnifier-ranged-hi@2x.png8611690752#497"    cd "/Users/ata48/Desktop/Archive 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/magnifier-ranged-hi@2x.png" "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app"0#
+
+CCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-lo-stemless@2x.png EGOTextView/Resources/magnifier-ranged-lo-stemless@2x.png
+s332630414.616349
+e332630414.668035
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-lo-stemless@2x.png
+xEGOTextView/Resources/magnifier-ranged-lo-stemless@2x.png
+lSLF07#2@62"Copy EGOTextView/Resources/magnifier-ranged-lo-stemless@2x.png332630414#332630414#0(0"0(0#0#88"/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/magnifier-ranged-lo-stemless@2x.png8611499424#506"    cd "/Users/ata48/Desktop/Archive 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/magnifier-ranged-lo-stemless@2x.png" "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app"0#
+
+CCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-lo@2x.png EGOTextView/Resources/magnifier-ranged-lo@2x.png
+s332630414.616884
+e332630414.668200
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-lo@2x.png
+xEGOTextView/Resources/magnifier-ranged-lo@2x.png
+lSLF07#2@53"Copy EGOTextView/Resources/magnifier-ranged-lo@2x.png332630414#332630414#0(0"0(0#0#79"/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/magnifier-ranged-lo@2x.png8610991872#497"    cd "/Users/ata48/Desktop/Archive 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/magnifier-ranged-lo@2x.png" "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app"0#
+
+CCpResource build/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-mask@2x.png EGOTextView/Resources/magnifier-ranged-mask@2x.png
+s332630414.666568
+e332630414.672192
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/EGOTextView_Demo.app/magnifier-ranged-mask@2x.png
+xEGOTextView/Resources/magnifier-ranged-mask@2x.png
+lSLF07#2@55"Copy EGOTextView/Resources/magnifier-ranged-mask@2x.png332630414#332630414#0(0"0(0#0#81"/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/magnifier-ranged-mask@2x.png8607556352#499"    cd "/Users/ata48/Desktop/Archive 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Users/ata48/Desktop/Archive 2/EGOTextView/Resources/magnifier-ranged-mask@2x.png" "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app"0#
+
+CGenerateDSYMFile "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app.dSYM" "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/EGOTextView_Demo"
+r0
+
+CLd "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/EGOTextView_Demo" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/Info.plist" EGOTextView_Demo/EGOTextView_Demo-Info.plist
+s332630412.850986
+e332630412.881279
+r1
+xProcessInfoPlistFile
+x/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/Info.plist
+xEGOTextView_Demo/EGOTextView_Demo-Info.plist
+lSLF07#2@52"Process EGOTextView_Demo/EGOTextView_Demo-Info.plist332630412#332630412#0(0"0(0#0#75"/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_Demo-Info.plist8675432956673994752#505"    cd "/Users/ata48/Desktop/Archive 2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility EGOTextView_Demo/EGOTextView_Demo-Info.plist -genpkginfo "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app/Info.plist"0#
+
+CProcessPCH /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch.gch EGOTextView_Demo/EGOTextView_Demo-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s332630412.881398
+e332630413.482160
+r1
+xProcessPCH
+x/var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch.gch
+xEGOTextView_Demo/EGOTextView_Demo-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@55"Precompile EGOTextView_Demo/EGOTextView_Demo-Prefix.pch332630412#332630413#0(0"0(0#0#75"/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_Demo-Prefix.pch8601613536#2031"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -c "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_Demo-Prefix.pch" -o /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-bmirzywcifjpidhatanivnllsdlh/EGOTextView_Demo-Prefix.pch.gch0#
+
+CProcessPCH /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-geushigynnadizbzoumvzvpwxkto/EGOTextView_Demo-Prefix.pch.gch EGOTextView_Demo/EGOTextView_Demo-Prefix.pch normal i386 c com.apple.compilers.llvmgcc42
+s332630412.895369
+e332630413.068458
+r1
+xProcessPCH
+x/var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-geushigynnadizbzoumvzvpwxkto/EGOTextView_Demo-Prefix.pch.gch
+xEGOTextView_Demo/EGOTextView_Demo-Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@55"Precompile EGOTextView_Demo/EGOTextView_Demo-Prefix.pch332630412#332630413#0(0"0(0#0#75"/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_Demo-Prefix.pch8597785472#1977"    cd "/Users/ata48/Desktop/Archive 2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-generated-files.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-own-target-headers.hmap" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-all-target-headers.hmap" -iquote "/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/EGOTextView_Demo-project-headers.hmap" "-F/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator" "-I/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/include" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources/i386" "-I/Users/ata48/Desktop/Archive 2/build/EGOTextView_Demo.build/Debug-iphonesimulator/EGOTextView_Demo.build/DerivedSources" -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -c "/Users/ata48/Desktop/Archive 2/EGOTextView_Demo/EGOTextView_Demo-Prefix.pch" -o /var/folders/XQ/XQqFI53HHkOtdLtL3lqz+ErBYJ+/-Caches-/com.apple.Xcode.231575888/SharedPrecompiledHeaders/EGOTextView_Demo-Prefix-geushigynnadizbzoumvzvpwxkto/EGOTextView_Demo-Prefix.pch.gch0#
+
+CTouch "/Users/ata48/Desktop/Archive 2/build/Debug-iphonesimulator/EGOTextView_Demo.app"
+r0
+
